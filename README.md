@@ -4,11 +4,7 @@
 >**Tools**: Python, OSMnx, NetworkX
 
 >**Appreciation**
->
 >A big thanks to my final year project supervisor, *Prof. Madya Dr. Fatimah Abdul Razak* for guiding me throughout this project and shaping my way of thinking.
-
-## Source and Tools
-
 
 ## Why analyzing Putrajaya's road network?
 In early 2001, the **Federal Administrative Centre of Malaysia** were **relocated** from Kuala Lumpur **to Putrajaya** due to **congestion** issue.
