@@ -1,6 +1,5 @@
 # Road Network Analysis in Federal Territory of Putrajaya
 >**Source of data**: OpenStreetMap  
->
 >**Tools**: Python, OSMnx, NetworkX
 
 >**Appreciation**  
