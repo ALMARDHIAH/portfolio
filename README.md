@@ -34,3 +34,6 @@ At the end of this project, we discovered
 2. **Closeness** centrality **concentrated** in the **central area** of Putrajaya.
 3. **Betweenness** centrality is **uniformly distributed** throughout Putrajaya.
 4. **Strategic routes** lies on **Lebuh Perdana Barat**, **Persiaran Sultan Sallahuddin Abdul Aziz Shah** and **Lebuh Perdana Timur**.
+
+## Conclusion
+All locations in Putrajaya are closely accessible and highly connected by any other locations within the boundary. Thus, the road network in Putrajaya is highly efficient.
