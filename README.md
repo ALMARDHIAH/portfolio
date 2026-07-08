@@ -3,6 +3,9 @@
 >
 >Source: OpenStreetMap
 
+## Appreciation
+A big thanks to my final year project supervisor, *Prof. Madya Dr. Fatimah Abdul Razak* for guiding me throughout this project and shaping my way of thinking.
+
 ## Why analyzing Putrajaya's road network?
 In early 2001, the **Federal Administrative Centre of Malaysia** were **relocated** from Kuala Lumpur **to Putrajaya** due to **congestion** issue.
 - In the early planning of Putrajaya, an efficient transportation system was emphasized to connect facilities, services, and workplaces.
@@ -26,7 +29,8 @@ This study focused on [Putrajaya](http://nominatim.openstreetmap.org/ui/search.h
 
 ![Methodology](methodology.png)
 
-## Findings
+## Results
+At the end of this project, we discovered
 1. Python **Python OSMnx, Python NetworkX** and **OpenStreetMap data** are **essential** for constructing the road network.
 2. **Closeness** centrality **concentrated** in the **central area** of Putrajaya.
 3. **Betweenness** centrality is **uniformly distributed** throughout Putrajaya.
