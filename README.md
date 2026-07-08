@@ -27,7 +27,7 @@ This study focused on [Putrajaya](http://nominatim.openstreetmap.org/ui/search.h
 ![Methodology](methodology.png)
 
 ## Findings
-- Python OSMnx, Python NetworkX and OpenStreetMap data are essential for constructing the road network.
-- Closeness centrality concentrated in the central area of Putrajaya.
-- Betweenness centrality is uniformly distributed throughout Putrajaya.
-- Strategis routes lies on Lebuh Perdana Barat, Persiaran Sultan Sallahuddin Abdul Aziz Shah and Lebuh Perdana Timur.
+- Python **Python OSMnx, Python NetworkX** and **OpenStreetMap data** are **essential** for constructing the road network.
+- **Closeness** centrality **concentrated** in the **central area** of Putrajaya.
+- **Betweenness** centrality is **uniformly distributed** throughout Putrajaya.
+- **Strategic routes** lies on **Lebuh Perdana Barat**, **Persiaran Sultan Sallahuddin Abdul Aziz Shah** and **Lebuh Perdana Timur**.
